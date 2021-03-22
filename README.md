@@ -1,5 +1,5 @@
 ## system-slash
-[![Build Status](https://travis-ci.org/sujitmandal/system-slash.svg?branch=main)](https://travis-ci.org/sujitmandal/system-slash)[![GitHub license](https://img.shields.io/github/license/sujitmandal/system-slash)](https://github.com/sujitmandal/system-slash/blob/main/LICENSE)
+[![Build Status](https://travis-ci.org/sujitmandal/system-slash.svg?branch=main)](https://travis-ci.org/sujitmandal/system-slash) [![GitHub license](https://img.shields.io/github/license/sujitmandal/system-slash)](https://github.com/sujitmandal/system-slash/blob/main/LICENSE)
 
 
 It will find operating system and then generate slash as per system required.
