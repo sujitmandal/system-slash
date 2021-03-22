@@ -7,14 +7,12 @@ import platform
 
 
 def slash():
-
     if platform.system() == 'Linux':
         system = '/'
     elif platform.system() == 'Windows':
         syste = ' \ '
         system = syste.strip()
 
-    print(system)
     return(system)
 
 if __name__ == "__main__":

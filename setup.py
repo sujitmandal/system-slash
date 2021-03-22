@@ -10,11 +10,11 @@ def readme():
 
 setup(
     name = 'system-slash',
-    version = '0.0.1',
+    version = '0.0.2',
     description = 'It will find operating system and then generate slash as per system required.',
     long_description = readme(),
     long_description_content_type = 'text/markdown',
-    url = 'https://github.com/sujitmandal/system-slash.git',
+    url = 'https://github.com/sujitmandal/system-slash',
     author = 'Sujit Mandal',
     author_email = 'mandals974@gmail.com',
     license = 'MIT',
