@@ -10,7 +10,7 @@ def readme():
 
 setup(
     name = 'system-slash',
-    version = '0.0.2',
+    version = '0.0.3',
     description = 'It will find operating system and then generate slash as per system required.',
     long_description = readme(),
     long_description_content_type = 'text/markdown',
