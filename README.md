@@ -17,7 +17,7 @@ pip install system-slash
 
 
 ## How to import the module:
-```
+```python
 from SystemSlash.SystemSlash import slash
 
 system = slash()
